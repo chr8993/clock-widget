@@ -1,0 +1,13 @@
+{
+  "name": "clock",
+  "version": "0.0.1",
+  "main": "index.html",
+  "window": {
+    "transparent": true,
+    "frame": false,
+    "toolbar": false,
+    "width": 600,
+    "height": 400,
+    "resizable": false
+  }
+}
