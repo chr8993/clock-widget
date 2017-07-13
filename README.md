@@ -5,4 +5,4 @@ npm install nw -g
 nw ./
 ```
 
-![Clock widget image](http://res.cloudinary.com/cinemate/image/upload/w_500/clock_pp2qi0.jpg)
+![Clock widget image](http://res.cloudinary.com/cinemate/image/upload/w_300/clock_pp2qi0.jpg)
